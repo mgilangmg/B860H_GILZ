@@ -60,8 +60,7 @@
 <div align="center">
   Untuk mengetahui lebih lanjut tentang frimware sederhana ini lets flash !!
 </div>
-<br />
-<br />
+
 ## Frimware Dwonload
    + Recommended for 1 GB RAM
 > Recommended digunakan untuk STB B860H dengan kapasitas RAM 1 GB, dimana addons untuk akses LAN tidak diikut sertakan dalam proses build frimware. Akses internet terbuka hanya bisa di gunakaan dengan jaringan WiFi. Dengan versi recommended untuk RAM 1 GB ini fungsi frimware tidak berbeda dengan versi RAM 2 GB. Link donwload bisa di klik di [sini](https://www.mediafire.com/file/szbkevh6o98vgum/GILZTV-6.0-20210203-B860H-v2.0RM1.exe/file)
@@ -101,7 +100,7 @@ Features
 Tutorial Flash STB
 ------
 - Matikan antivirus sementara
-- Connect STB ke laptop _Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop_
+- Connect STB ke laptop __Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop__
 - Jalankan aplikasi GILZTV-6.0-20210203-B860H-v2.0.exe
 - Lanjut cehck device connection dengan menekan nomor 1 _Pastikan STB terdeteksi pada menu ini_
 - Lanjut pilih nomor 2 untuk melakukan flashing frimware
