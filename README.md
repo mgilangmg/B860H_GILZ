@@ -18,7 +18,7 @@
 </div>
 <br />
 <div align="center">
-  Saya tidak bertanggung jawab atas kerusakan hadware, software yang penyebabkan STB anda brick/softbaricks dengan menggunakan frimware ini
+  Saya tidak bertanggung jawab atas kerusakan hardware, software yang menyebabkan STB anda brick/softbricks dengan menggunakan frimware ini
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  Selamat datang di frimare GILZ.
+  Selamat datang di frimware GILZ.
 </div>
 
 <div align="center">
@@ -61,9 +61,9 @@
   Untuk mengetahui lebih lanjut tentang frimware sederhana ini lets flash !!
 </div>
 
-## Frimware Dwonload
+## Frimware Download
    + Recommended for 1 GB RAM
-> Recommended digunakan untuk STB B860H dengan kapasitas RAM 1 GB, dimana addons untuk akses LAN tidak diikut sertakan dalam proses build frimware. Akses internet terbuka hanya bisa di gunakaan dengan jaringan WiFi. Dengan versi recommended untuk RAM 1 GB ini fungsi frimware tidak berbeda dengan versi RAM 2 GB. Link donwload bisa di klik di [sini](https://www.mediafire.com/file/szbkevh6o98vgum/GILZTV-6.0-20210203-B860H-v2.0RM1.exe/file)
+> Recommended digunakan untuk STB B860H dengan kapasitas RAM 1 GB, dimana addons untuk akses LAN tidak diikut sertakan dalam proses build frimware ini. Akses internet terbuka hanya bisa di gunakaan dengan jaringan WiFi. Dengan versi recommended untuk RAM 1 GB ini fungsi frimware tidak berbeda dengan versi RAM 2 GB. Link donwload bisa di akses di [sini](https://www.mediafire.com/file/szbkevh6o98vgum/GILZTV-6.0-20210203-B860H-v2.0RM1.exe/file)
   
    + Recommended for 2 GB RAM
 > Recommended digunakan untuk STB B860H dengan kapasitas RAM 2 GB, addons LAN tersedia untuk versi RAM 2 GB. frimware versi ini bisa saja di gunakan untuk STB B860H dengan versi RAM 1 GB, hanya saja dengan adanya addons LAN menjadikan STB B860h RAM 1 GB memerlukan kapasitas ruang lebih besar. link download dapat di akses di [sini](https://www.mediafire.com/file/aql72hi8i78ncti/GILZTV-6.0-20210203-B860H-v2.0RM2.exe/file)   
@@ -78,13 +78,12 @@ Features
 - Auto Set Custom GILZ Logo
 - Auto Set Custom GILZ Bootanimation
 - Auto Set Custom UI Touch Sound
-- Auto Set Default Granted root system all app
+- Auto Set Default Granted Root System All Apps
 - Auto Set Enable Intallation APK from USB _(**PREMIUM**)_
-- Auto Set icon mod cursor/mouse _(**PREMIUM**)_
+- Auto Set Icon Mod Cursor/Mouse _(**PREMIUM**)_
 - Auto Install Driver GamePad From GILZ Server _(**PREMIUM**)_
 - Google Play Service _(**PREMIUM**)_
 - Google Play Store TV _(**PREMIUM**)_
-- Custom Mouse Icon / Cursor _(**PREMIUM**)_
 - Auto Configuration Dolby Atmos _(**PREMIUM**)_
 - Auto Configuration Dark Power Menu _(**PREMIUM**)_
 - Auto Clear Cache System Background _(**PREMIUM**)_
@@ -102,10 +101,10 @@ Tutorial Flash STB
 - Matikan antivirus sementara
 - Connect STB ke laptop _(Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop)_
 - Jalankan aplikasi GILZTV-6.0-20210203-B860H-v2.0.exe
-- Lanjut cehck device connection dengan menekan nomor 1 _(Pastikan STB terdeteksi pada menu ini)_
+- Lanjut check device connection dengan menekan nomor 1 _(Pastikan STB terdeteksi pada menu ini)_
 - Lanjut pilih nomor 2 untuk melakukan flashing frimware
 - Tunggu flahsing sampai selesai
-- Setelah selesai, Cabut STB dari pc dan connect ke tv
+- Setelah selesai, cabut STB dari pc dan connect ke TV
 - Tunggu booting sampai selesai
 
 Request PIN STB
@@ -121,7 +120,7 @@ Request PIN STB
 - Setelah mendapakan **PIN** dari grup, silahkan ketik digit PIN pada terminal android dan tekan enter
 - STB akan melakukan config automatis dan terhubung keserver GILZ jika **PIN** benar
 - Tunggu hingga proses configuration selesai
-  
+
 <br />
 <br />
 <div align="center">
