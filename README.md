@@ -60,7 +60,8 @@
 <div align="center">
   Untuk mengetahui lebih lanjut tentang frimware sederhana ini lets flash !!
 </div>
-
+<br />
+<br />
 ## Frimware Dwonload
    + Recommended for 1 GB RAM
 > Recommended digunakan untuk STB B860H dengan kapasitas RAM 1 GB, dimana addons untuk akses LAN tidak diikut sertakan dalam proses build frimware. Akses internet terbuka hanya bisa di gunakaan dengan jaringan WiFi. Dengan versi recommended untuk RAM 1 GB ini fungsi frimware tidak berbeda dengan versi RAM 2 GB. Link donwload bisa di klik di [sini](https://www.mediafire.com/file/szbkevh6o98vgum/GILZTV-6.0-20210203-B860H-v2.0RM1.exe/file)
@@ -84,7 +85,7 @@ Features
 - Auto Install Driver GamePad From GILZ Server (_**PREMIUM**_)
 - Google Play Service (_**PREMIUM**_)
 - Google Play Store TV (_**PREMIUM**_)
-- Custom Mouse Icon / Cursor(_**PREMIUM**_)
+- Custom Mouse Icon / Cursor (_**PREMIUM**_)
 - Auto Configuration Dolby Atmos (_**PREMIUM**_)
 - Auto Configuration Dark Power Menu (_**PREMIUM**_)
 - Auto Clear Cache System Background (_**PREMIUM**_)
@@ -100,9 +101,9 @@ Features
 Tutorial Flash STB
 ------
 - Matikan antivirus sementara
-- Connect STB ke laptop __Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop__
+- Connect STB ke laptop _Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop_
 - Jalankan aplikasi GILZTV-6.0-20210203-B860H-v2.0.exe
-- Lanjut cehck device connection dengan menekan nomor 1 __Pastikan STB terdeteksi pada menu ini__
+- Lanjut cehck device connection dengan menekan nomor 1 _Pastikan STB terdeteksi pada menu ini_
 - Lanjut pilih nomor 2 untuk melakukan flashing frimware
 - Tunggu flahsing sampai selesai
 - Setelah selesai, Cabut STB dari pc dan connect ke tv
@@ -113,7 +114,7 @@ Request PIN STB
 - Booting awal STB ke halamn launcher utama GILZ
 - Klik tombol **GO**
 - Klik **NETS** untuk mengkoneksikan STB ke sumber internet
-- Setelah internet terconnect, kembali ke launcher dan klik **START** __Terminal android akan terbuka automatis__
+- Setelah internet terconnect, kembali ke launcher dan klik **START** _Terminal android akan terbuka automatis_
 - Beri izin akses root dengan cara ketik __su__ lalu enter
 - Silahkan lakukan request **PIN** dengan mengetik __tiket__ lalu tekan enter
 - Silahkan isi username bebas untuk mengambil nomor antrian lalu tekan enter
@@ -122,7 +123,8 @@ Request PIN STB
 - STB akan melakukan config automatis dan terhubung keserver GILZ jika **PIN** benar
 - Tunggu hingga proses configuration selesai
   
-
+<br />
+<br />
 <div align="center">
   <h3>T E T A P  S A N T U Y  M E S K I  H A T I  A M B U R A D U L S S S </h3>
   <sub>A small project by Muhammad Gilang
