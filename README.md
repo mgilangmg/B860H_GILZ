@@ -79,30 +79,30 @@ Features
 - Auto Set Custom GILZ Bootanimation
 - Auto Set Custom UI Touch Sound
 - Auto Set Default Granted root system all app
-- Auto Set Enable Intallation APK from USB (_**PREMIUM**_)
-- Auto Set icon mod cursor/mouse (_**PREMIUM**_)
-- Auto Install Driver GamePad From GILZ Server (_**PREMIUM**_)
-- Google Play Service (_**PREMIUM**_)
-- Google Play Store TV (_**PREMIUM**_)
-- Custom Mouse Icon / Cursor (_**PREMIUM**_)
-- Auto Configuration Dolby Atmos (_**PREMIUM**_)
-- Auto Configuration Dark Power Menu (_**PREMIUM**_)
-- Auto Clear Cache System Background (_**PREMIUM**_)
-- Terminal Setting Display and Screen Position (_**PREMIUM**_)
-- Terminal Set Enable (ON) Google Play (_**PREMIUM**_)
-- Terminal Set Disable (OFF) Google Play (_**PREMIUM**_)
-- Terminal Install Batch APK (_**PREMIUM**_)
-- Terminal Flash Custom Boot Logo (_**PREMIUM**_)
-- Terminal Flash Custom Bootanimation (_**PREMIUM**_)
-- Terminal Chromecast Built in (ON) (_**PREMIUM**_)
-- Terminal Chromecast Built in (OFF) (_**PREMIUM**_)
+- Auto Set Enable Intallation APK from USB _(**PREMIUM**)_
+- Auto Set icon mod cursor/mouse _(**PREMIUM**)_
+- Auto Install Driver GamePad From GILZ Server _(**PREMIUM**)_
+- Google Play Service _(**PREMIUM**)_
+- Google Play Store TV _(**PREMIUM**)_
+- Custom Mouse Icon / Cursor _(**PREMIUM**)_
+- Auto Configuration Dolby Atmos _(**PREMIUM**)_
+- Auto Configuration Dark Power Menu _(**PREMIUM**)_
+- Auto Clear Cache System Background _(**PREMIUM**)_
+- Terminal Setting Display and Screen Position _(**PREMIUM**)_
+- Terminal Set Enable (ON) Google Play _(**PREMIUM**)_
+- Terminal Set Disable (OFF) Google Play _(**PREMIUM**)_
+- Terminal Install Batch APK _(**PREMIUM**)_
+- Terminal Flash Custom Boot Logo _(**PREMIUM**)_
+- Terminal Flash Custom Bootanimation _(**PREMIUM**)_
+- Terminal Chromecast Built in (ON) _(**PREMIUM**)_
+- Terminal Chromecast Built in (OFF) _(**PREMIUM**)_
 
 Tutorial Flash STB
 ------
 - Matikan antivirus sementara
-- Connect STB ke laptop __Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop__
+- Connect STB ke laptop _(Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop)_
 - Jalankan aplikasi GILZTV-6.0-20210203-B860H-v2.0.exe
-- Lanjut cehck device connection dengan menekan nomor 1 _Pastikan STB terdeteksi pada menu ini_
+- Lanjut cehck device connection dengan menekan nomor 1 _(Pastikan STB terdeteksi pada menu ini)_
 - Lanjut pilih nomor 2 untuk melakukan flashing frimware
 - Tunggu flahsing sampai selesai
 - Setelah selesai, Cabut STB dari pc dan connect ke tv
@@ -113,7 +113,7 @@ Request PIN STB
 - Booting awal STB ke halamn launcher utama GILZ
 - Klik tombol **GO**
 - Klik **NETS** untuk mengkoneksikan STB ke sumber internet
-- Setelah internet terconnect, kembali ke launcher dan klik **START** _Terminal android akan terbuka automatis_
+- Setelah internet terconnect, kembali ke launcher dan klik **START** _(Terminal android akan terbuka automatis)_
 - Beri izin akses root dengan cara ketik __su__ lalu enter
 - Silahkan lakukan request **PIN** dengan mengetik __tiket__ lalu tekan enter
 - Silahkan isi username bebas untuk mengambil nomor antrian lalu tekan enter
