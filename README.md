@@ -121,6 +121,22 @@ Request PIN STB
 - STB akan melakukan config automatis dan terhubung keserver GILZ jika **PIN** benar
 - Tunggu hingga proses configuration selesai
 
+Request PIN STB
+------
+- Ver. 2.1
+  - Add support remote
+  - Add relax security update
+  - Change Default wallpaper
+  - Change Effect sound tick
+  - Change bootanimation
+  - Change gallery app
+  - Change sound registration
+  - Add support remote
+  - Update app 3rd party 2021
+  - Bug fix some crash script
+
+
+
 <br />
 <br />
 <div align="center">
