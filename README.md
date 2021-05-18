@@ -62,10 +62,10 @@
 </div>
 
 ## Frimware Download
-   + Recommended for 1 GB RAM
-> Recommended digunakan untuk STB B860H dengan kapasitas RAM 1 GB, dimana addons untuk akses LAN tidak diikut sertakan dalam proses build frimware ini. Akses internet terbuka hanya bisa di gunakaan dengan jaringan WiFi. Dengan versi recommended untuk RAM 1 GB ini fungsi frimware tidak berbeda dengan versi RAM 2 GB. Link donwload bisa di akses di (still fixing) [sini V.2.1](https://seranking.com/blog/wp-content/uploads/2021/01/404_01-min.jpg)
+   + Recommended for 1 GB RAM (RM-1)
+> Recommended digunakan untuk STB B860H dengan kapasitas RAM 1 GB, dimana addons untuk akses LAN tidak diikut sertakan dalam proses build frimware ini. Akses internet terbuka hanya bisa di gunakaan dengan jaringan WiFi. Dengan versi recommended untuk RAM 1 GB ini fungsi frimware tidak berbeda dengan versi RAM 2 GB. Link donwload bisa di akses di (still fixing) [disabled](https://seranking.com/blog/wp-content/uploads/2021/01/404_01-min.jpg)
   
-   + Recommended for 2 GB RAM
+   + Recommended for 2 GB RAM (RM-2)
 > Recommended digunakan untuk STB B860H dengan kapasitas RAM 2 GB, addons LAN tersedia untuk versi RAM 2 GB. frimware versi ini bisa saja di gunakan untuk STB B860H dengan versi RAM 1 GB, hanya saja dengan adanya addons LAN menjadikan STB B860h RAM 1 GB memerlukan kapasitas ruang lebih besar. link download dapat di akses di [sini V.2.1](https://www.mediafire.com/file/4vubd3frp6lu585/GILZTV-6.0-20210423-B860H-v2.1_RM2.exe/file)   
 
 
