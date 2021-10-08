@@ -21,25 +21,6 @@
   Saya tidak bertanggung jawab atas kerusakan hardware, software yang menyebabkan STB anda brick/softbricks dengan menggunakan frimware ini
 </div>
 
-<div align="center">
-  <h3>
-    <a href="https://twitter.com/mgilanmg">
-      Twitter
-    </a>
-    <span> | </span>
-    <a href="https://instagram.com/mgilangmg">
-      Instagram
-    </a>
-    <span> | </span>
-    <a href="https://wa.me/6282284351277">
-      WhatsApp
-    </a>
-    <span> | </span>
-    <a href="https://t.me/gilzgroup">
-      Telegram Grup
-    </a>
-  </h3>
-</div>
 
 <div align="center">
   Selamat datang di frimware GILZ.
